@@ -7,7 +7,8 @@ Setting up your own robot play area
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/legendac/ToyRobot`
-- Switch directory to the folder
+- In your terminal / command prompt, enter the folder directory
+- Let's get started!
 
 ### Setup
 
