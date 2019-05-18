@@ -1,0 +1,27 @@
+{
+  "name": "toyrobot",
+  "version": "1.0.0",
+  "description": "A toy robot application that moves on a 5x5 grid based on your inputs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legendac/ToyRobot.git"
+  },
+  "author": "adamctj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legendac/ToyRobot/issues"
+  },
+  "homepage": "https://github.com/legendac/ToyRobot#readme",
+  "dependencies": {
+    "node": "^12.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2"
+  }
+}
